@@ -1,0 +1,9 @@
+.hello:active{
+  color:blue;
+}
+
+#goodbye:hover{
+  color:white;
+  background-color: black;
+  float: right;
+}
