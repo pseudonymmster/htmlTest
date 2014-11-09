@@ -6,3 +6,10 @@
   color:white;
   background-color: black;
 }
+
+.button-block{
+  display: inline-block;
+}
+li#li-block{
+  display: inline-block;
+}
